@@ -35,5 +35,9 @@ class Student {
 
 
 int main() {
-   
+   Student A;
+   A.name ="Om";
+   A.age=21;
+   A.id=12201045;
+   A.nos=6;
 }
